@@ -41,7 +41,7 @@ BOCETOS MAPAS MENTALES METODOLOGÍA DE LA INVESTIGACIÓN
   - Práctica
   - Reflexión
 ---
-# Ciencia
+## Ciencia
 
 - Definición
   - Conjunto de conocimientos sistemáticamente estructurados obtenidos mediante la observación y el razonamiento.
@@ -71,7 +71,7 @@ BOCETOS MAPAS MENTALES METODOLOGÍA DE LA INVESTIGACIÓN
   - Mejora de la calidad de vida
   - Desarrollo tecnológico
 ---
-# Método
+### Método
 
 - Definición
   - Conjunto de procedimientos y técnicas sistemáticas para alcanzar un objetivo o resolver un problema.
@@ -110,7 +110,7 @@ BOCETOS MAPAS MENTALES METODOLOGÍA DE LA INVESTIGACIÓN
   - Educación
   - Negocios
 ---
-# Investigación
+#### Investigación
 
 - Definición
   - Proceso sistemático de recopilación, análisis e interpretación de datos para aumentar el conocimiento sobre un tema específico.

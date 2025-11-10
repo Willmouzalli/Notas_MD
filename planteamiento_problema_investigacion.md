@@ -1,0 +1,13 @@
+Titulo: Deficiencia en Habilidades de Programación entre Estudiantes de Ingeniería en Informática de la Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora (UNELLEZ)
+
+Planteamiento de Problema de Investigación
+
+1) La tecnología en todos los niveles ha avanzado de manera significativa en las últimas décadas, transformando la forma en que vivimos, trabajamos y nos comunicamos. Sin embargo, este avance tecnológico también ha generado una serie de desafíos y problemas que requieren una investigación profunda para comprender sus implicaciones y encontrar soluciones efectivas.
+
+2) Una condición necesaria para poder generar soluciones efectivas es el desarrollo de la habilidad de programar soluciones tecnológicas. La programación no solo permite la creación de software y aplicaciones, sino que también fomenta el pensamiento crítico, la resolución de problemas y la creatividad. A medida que la tecnología continúa evolucionando, la demanda de habilidades de programación se ha incrementado en diversos sectores, desde la educación hasta la industria y el comercio.
+
+3) En el contexto de las habilidades que debería tener un estudiante de Ingeniería en informatica , la programación se ha convertido en una competencia esencial. Los estudiantes que dominan la programación están mejor preparados para enfrentar los desafíos tecnológicos del mundo moderno y contribuir al desarrollo de soluciones innovadoras. Sin embargo, a pesar de la importancia de la programación, muchos estudiantes enfrentan dificultades para adquirir estas habilidades debido a la falta de recursos adecuados, métodos de enseñanza ineficaces o barreras personales.
+
+4) Ante el continuo avance tecnológico y la creciente demanda de habilidades de programación, es crucial investigar la deficiencia en habilidades de programación entre los estudiantes de Ingeniería en Informática de la Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora (UNELLEZ). Esta investigación busca identificar las causas subyacentes de esta deficiencia, evaluar su impacto en el desempeño académico y profesional de los estudiantes, y proponer estrategias para mejorar la enseñanza y el aprendizaje de la programación en esta institución.
+
+5) Los futuros ingenieros en informática por su naturaleza de solventar problemas tecnológicos, deben contar con un sólido conocimiento en programación para poder diseñar, desarrollar y mantener sistemas informáticos eficientes. La deficiencia en habilidades de programación puede limitar su capacidad para contribuir al avance tecnológico y afectar negativamente su desempeño académico y profesional.

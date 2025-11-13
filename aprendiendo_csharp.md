@@ -16,3 +16,6 @@ https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
 5. Las variables en C# se declaran especificando el tipo de dato seguido del nombre de la variable.
 6. Los datos para numeros enteros se usan los numeros normales, para usar flotantes se usa el punto y se pone una "f" al final del numero, para los decimales se usa el punto y se pone una "m" al final del numero.
 7. Las operaciones numericas en C# se hacen primeramente con los parentesis, luego multiplicacion y division, y por ultimo suma y resta. Y si coinciden en jerarquía se realiza la operacion de izquierda a derecha.
+8. Concatenación se hace de la siguiente manera: ($"Texto{variables}").
+9. Para poder usar comandos de dotnet hay que tener el sdk de .NET descargado, en caso de que no funcionen los comandos de dotnet es porque no se agregó dotnet al path.
+
